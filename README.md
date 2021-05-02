@@ -22,13 +22,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist urbanindo/yii2-dynamodb "*"
+php composer.phar require --prefer-dist technology20nn/yii2-dynamodb "*"
 ```
 
 or add
 
 ```
-"urbanindo/yii2-dynamodb": "*"
+"technology20nn/yii2-dynamodb": "*"
 ```
 
 to the require section of your `composer.json` file.
